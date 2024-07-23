@@ -1,4 +1,4 @@
-# Top Drivers Conductoes
+# Top Drivers Conductores
 
 Este proyecto es una aplicación Java que se conecta a una base de datos PostgreSQL y muestra a los conductores con más puntos en un año seleccionado. La interfaz gráfica está construida con Swing y permite a los usuarios seleccionar un año, refrescar los datos y salir de la aplicación.
 
