@@ -189,8 +189,8 @@ public class Main {
         SwingUtilities.invokeLater(Main::new);
     }
 }
+.
 
-
-##Captura
+## Captura
 
 ![imagen](https://github.com/user-attachments/assets/6eecc2b3-7c91-4af5-8014-1557be9a7201)
